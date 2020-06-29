@@ -6,7 +6,9 @@ Midi Animation Track Simple Test https://github.com/keijiro/MidiAnimationTrack
 
 # ハマった点メモ
 TimelineからLocalScaleの変更しているオブジェクトが、Timelineの再生からだと動くのだが、Unityの再生からだと何故か動かない。  
-[![Image from Gyazo](https://i.gyazo.com/0e51aeac586b0822f0129ce880e6e5f4.png)](https://gyazo.com/0e51aeac586b0822f0129ce880e6e5f4)
+  
+<a href="https://gyazo.com/0e51aeac586b0822f0129ce880e6e5f4"><img src="https://i.gyazo.com/0e51aeac586b0822f0129ce880e6e5f4.png" alt="Image from Gyazo" width="320"/></a>  
+  
 GameObjectのStaticチェックボックスを外すことによって解決した。
 
 # 必要要件
