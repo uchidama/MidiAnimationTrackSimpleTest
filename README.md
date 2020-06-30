@@ -2,7 +2,7 @@
 Midi Animation Track Simple Test https://github.com/keijiro/MidiAnimationTrack
   
 [![Image from Gyazo](https://i.gyazo.com/16bde44a3651c754a43b8d79edd2a92d.gif)](https://gyazo.com/16bde44a3651c754a43b8d79edd2a92d)  
-[On YouTube](https://www.youtube.com/watch?v=nVdT4ZPOOkU)
+[On YouTube](https://youtu.be/rLj5W-q6ovw)
 
 # ハマった点メモ
 TimelineからLocalScaleの変更しているオブジェクトが、Timelineの再生からだと動くのだが、Unityの再生からだと何故か動かない。  
