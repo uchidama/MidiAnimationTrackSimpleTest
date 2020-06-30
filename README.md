@@ -11,6 +11,13 @@ TimelineからLocalScaleの変更しているオブジェクトが、Timelineの
   
 GameObjectのStaticチェックボックスを外すことによって解決した。
 
+# Unity Recorderで60fpsで動画を保存
+
+<a href="https://gyazo.com/65b0e3349225af57cd35c5f30ca81209"><img src="https://i.gyazo.com/65b0e3349225af57cd35c5f30ca81209.png" alt="Image from Gyazo" width="560"/></a>
+
+音と動画のシンクロ感を増すには60FPSの方が良かろう。  
+普通にプルダウンで60選べば60FPSにできた。
+
 # 必要要件
 - Unity 2019.4.1f1 or later
 
