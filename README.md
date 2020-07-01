@@ -5,6 +5,9 @@ Midi Animation Track Simple Test https://github.com/keijiro/MidiAnimationTrack
 [On YouTube](https://youtu.be/rLj5W-q6ovw)
 
 # ハマった点メモ
+<a href="https://gyazo.com/94f2b9119fd90e321828c782c0733ba3"><img src="https://i.gyazo.com/94f2b9119fd90e321828c782c0733ba3.png" alt="Image from Gyazo" width="320"/></a>
+
+UnityのHigh Definition RPで新しいプロジェクトを作成した時にできるシーンを元に作る。  
 TimelineからLocalScaleの変更しているオブジェクトが、Timelineの再生からだと動くのだが、Unityの再生からだと何故か動かない。  
   
 <a href="https://gyazo.com/0e51aeac586b0822f0129ce880e6e5f4"><img src="https://i.gyazo.com/0e51aeac586b0822f0129ce880e6e5f4.png" alt="Image from Gyazo" width="320"/></a>  
